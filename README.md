@@ -14,7 +14,7 @@ Small SMD switch
 Capacitor
 ---------
 
-![Panasonic D](/akafugu/eagleup_models/raw/master/passive/capacitors/SMD/PANASONIC_D.skp)
+![Panasonic D](/akafugu/eagleup_models/raw/master/passive/capacitors/SMD/PANASONIC_D.png)
 SMD Capacitor
 
 Headers
