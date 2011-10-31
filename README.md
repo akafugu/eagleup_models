@@ -5,17 +5,15 @@ This is a repository to our models for EagleUp
 Switches
 --------
 
-![Omron B3J](/switches/B3J.png)
-Omron B3J
+![Omron B3J](tree/master/switches/B3J.png "Omron B3J")
 
-![Tactile switch](/switches/TACTILE_SWITCH_SMD.png)
-Small SMD switch
+![Tactile switch](switches/TACTILE_SWITCH_SMD.png "Small SMD switch")
 
 Capacitor
 ---------
 
-![Panasonic D](/passive/capacitors/SMD/PANASONIC_D.skp)
-SMD Capacitor
+![Panasonic D](passive/capacitors/SMD/PANASONIC_D.skp "SMD Capacitor")
+
 
 
 Headers
