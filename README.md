@@ -5,24 +5,25 @@ This is a repository to our models for EagleUp
 Switches
 --------
 
-![Omron B3J](tree/master/switches/B3J.png "Omron B3J")
+![Omron B3J](/akafugu/eagleup_models/raw/master/switches/B3J.png)
+Omron B3J
 
-![Tactile switch](switches/TACTILE_SWITCH_SMD.png "Small SMD switch")
+![Tactile switch](/akafugu/eagleup_models/raw/master/switches/TACTILE_SWITCH_SMD.png)
+Small SMD switch
 
 Capacitor
 ---------
 
-![Panasonic D](passive/capacitors/SMD/PANASONIC_D.skp "SMD Capacitor")
-
-
+![Panasonic D](/akafugu/eagleup_models/raw/master/passive/capacitors/SMD/PANASONIC_D.skp)
+SMD Capacitor
 
 Headers
 -------
 
-![Male angle](/headers/1X04-ANGLE.png)
+![Male angle](/akafugu/eagleup_models/raw/master/headers/1X04-ANGLE.png)
 1x4 Male angle header
 
-![Female angle](/headers/1X04-ANGLE-FEMALE.png)
+![Female angle](/akafugu/eagleup_models/raw/master/headers/1X04-ANGLE-FEMALE.png)
 1x4 Female angle header
 
 <center>
