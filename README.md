@@ -1,4 +1,4 @@
-This is a repository to our models for EagleUp
+This is a repository of our models for [EagleUp](http://eagleup.wordpress.com/)
 ==============================================
 
 
