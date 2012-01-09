@@ -17,6 +17,19 @@ Capacitor
 ![Panasonic D](/akafugu/eagleup_models/raw/master/passive/capacitors/SMD/PANASONIC_D.png)
 [SMD Capacitor](/akafugu/eagleup_models/raw/master/passive/capacitors/SMD/PANASONIC_D.skp)
 
+![CPOL-RADIAL-8X9](/akafugu/eagleup_models/raw/master/passive/capacitors/PTH/CPOL-RADIAL-8X9.png)
+[PTH Capacitor](/akafugu/eagleup_models/raw/master/passive/capacitors/PTH/CPOL-RADIAL-8X9.skp)
+
+![CPOL-RADIAL-8X12-5](/akafugu/eagleup_models/raw/master/passive/capacitors/PTH/CPOL-RADIAL-8X12-5.png)
+[PTH Capacitor](/akafugu/eagleup_models/raw/master/passive/capacitors/PTH/CPOL-RADIAL-8X12-5.skp)
+
+![CPOL-RADIAL-10X9](/akafugu/eagleup_models/raw/master/passive/capacitors/PTH/CPOL-RADIAL-10X9.png)
+[PTH Capacitor](/akafugu/eagleup_models/raw/master/passive/capacitors/PTH/CPOL-RADIAL-10X9.skp)
+
+![CPOL-RADIAL-10X12-5](/akafugu/eagleup_models/raw/master/passive/capacitors/PTH/CPOL-RADIAL-10X12-5.png)
+[PTH Capacitor](/akafugu/eagleup_models/raw/master/passive/capacitors/PTH/CPOL-RADIAL-10X12-5.skp)
+
+
 LED
 ---
 
